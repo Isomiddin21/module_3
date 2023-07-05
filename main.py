@@ -154,8 +154,7 @@ from model import User
 # UI()
 
 
-Isomiddin = 0
-
+pdp_academy = 0
 
 
 
